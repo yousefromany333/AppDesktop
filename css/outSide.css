@@ -1,0 +1,71 @@
+.body{
+    margin: auto;
+    background-color: #EEE;
+    color: black;
+    width: 600px;
+    border-radius: 20px;
+}
+.div1{
+    margin-right: 20px;x
+    height: 50px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    width: 85%;
+}
+.munis{
+    display: none;
+}
+.day{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.hestory , .address {
+    margin-right: 120px;
+    margin-top: 10px;
+    font-size: 20px;
+    display: inline-flex;
+}
+.plus{
+    display: inline-flex;
+    font-size: 20px;
+    position: relative;
+    right: 20px;
+    top: 10px;
+    cursor: pointer;
+    display: inline-flex;
+}
+.munis{
+    font-size: 20px;
+    position: relative;
+    right: 20px;
+    top: 10px;
+    cursor: pointer;
+}
+.h{
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+}
+.mshens{
+    display: inline-flex;
+}
+.td{
+    margin-right: 50px;
+}
+.mch{
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+    margin-top: -16px;
+}
+.line{
+    height: 170px;
+    background-color: black;
+    width: 1px;
+    display: inline;
+    position: absolute;
+    right: 474px;
+}
+}
+.detals{
+    width: 100%;
+}
